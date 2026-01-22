@@ -1,4 +1,4 @@
-# 💫 About Me:
+<h1 align="center"> VIKAS P</h1>
   
 👨‍🎓 Final-year Bachelor of Engineering student with a strong passion for learning, growth, and technology.<br>💻 Skilled in Java, JavaScript, MongoDB, with basic knowledge of React, and actively working toward becoming a Full-Stack MERN Developer.<br>🧠 I enjoy problem-solving, logical thinking, and building real-world projects that create impact.<br>📚 Always eager to learn new concepts, improve my technical & communication skills, and adapt to challenges.<br>🤝 Disciplined, sincere, and team-oriented, with a positive mindset and a desire to contribute meaningfully wherever I work.<br>🚀 Focused on continuous self-improvement and long-term professional success.
 
